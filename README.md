@@ -10,7 +10,7 @@ Projeto desenvolvido durante a **Imersão Alura Front-End (2ª edição)**, com 
 
 ## 🎨 Recursos e Layout
 
-O projeto apresenta uma interface responsiva que inclui:
+O projeto apresenta uma interface responsiva que inclui:      
 ✅ **Sidebar** com navegação e biblioteca de playlists  
 ✅ **Campo de busca** interativo para encontrar músicas  
 ✅ **Seção de playlists** dinâmicas e organizadas  
